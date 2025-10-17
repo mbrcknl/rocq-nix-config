@@ -1,0 +1,9 @@
+{
+  "default": "2.3.1",
+  "versions": {
+    "2.3.1": {
+      "hash": "sha256-/cg+1DRDia0oql2rVlyWE6/g87UoSrkaRLGTsMFGp6Y=",
+      "tag": "v2.3.1"
+    }
+  }
+}
