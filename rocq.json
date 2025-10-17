@@ -1,0 +1,35 @@
+{
+  "9.0.0": {
+    "compatible-rocq-version": "9.0",
+    "patches": [
+      {
+        "hash": "sha256-YXRXarfYMQWMpp0Z69jG54l0gmML+L3VLtM3HOAqR9g",
+        "url": "https://github.com/rocq-prover/rocq/commit/2bf88dc4765d7ad9ec14e0229842a65c74d5ab1c.patch"
+      }
+    ],
+    "src": {
+      "hash": "sha256-GRwYSvrJGiPD+I82gLOgotb+8Ra5xHZUJGcNwxWqZkU=",
+      "url": "https://github.com/rocq-prover/rocq/archive/V9.0.0.tar.gz"
+    }
+  },
+  "9.0.1": {
+    "compatible-rocq-version": "9.0",
+    "patches": [
+      {
+        "hash": "sha256-YXRXarfYMQWMpp0Z69jG54l0gmML+L3VLtM3HOAqR9g",
+        "url": "https://github.com/rocq-prover/rocq/commit/2bf88dc4765d7ad9ec14e0229842a65c74d5ab1c.patch"
+      }
+    ],
+    "src": {
+      "hash": "sha256-gRgQhFiYvGR/Z46TmTl1bgN9O32nifxQGdrzfw0WHrk=",
+      "url": "https://github.com/rocq-prover/rocq/archive/V9.0.1.tar.gz"
+    }
+  },
+  "9.1.0": {
+    "compatible-rocq-version": "9.1",
+    "src": {
+      "hash": "sha256-+QL7I1/0BfT87n7lSaOmpHj2jJuDB4idWhAxwzvVQOE=",
+      "url": "https://github.com/rocq-prover/rocq/archive/V9.1.0.tar.gz"
+    }
+  }
+}

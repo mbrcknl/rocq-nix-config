@@ -1,0 +1,53 @@
+{
+  "2.3.1": {
+    "rocq-versions": {
+      "9.0.0": {},
+      "9.0.1": {},
+      "9.1.0": {
+        "patches": [
+          {
+            "hash": "sha256-HqXT/YttIF3Kg8NNEE2lyoRgbcpp3kEaR8c6Xs3Yky8=",
+            "url": "https://github.com/rocq-prover/vsrocq/commit/482565105a9cd49d52c4a793d1f23f2e8f579a23.patch"
+          }
+        ]
+      }
+    },
+    "src": {
+      "hash": "sha256-/cg+1DRDia0oql2rVlyWE6/g87UoSrkaRLGTsMFGp6Y=",
+      "url": "https://github.com/rocq-prover/vsrocq/archive/v2.3.1.tar.gz"
+    }
+  },
+  "2.3.2": {
+    "rocq-versions": {
+      "9.0.0": {},
+      "9.0.1": {},
+      "9.1.0": {}
+    },
+    "src": {
+      "hash": "sha256-QIG3SItXbPXNUFD6OwbcPIuIHS7Tk2wKsIFSfunV4yw=",
+      "url": "https://github.com/rocq-prover/vsrocq/archive/v2.3.2.tar.gz"
+    }
+  },
+  "2.3.3": {
+    "rocq-versions": {
+      "9.0.0": {},
+      "9.0.1": {},
+      "9.1.0": {}
+    },
+    "src": {
+      "hash": "sha256-wgn28wqWhZS4UOLUblkgXQISgLV+XdSIIEMx9uMT/ig=",
+      "url": "https://github.com/rocq-prover/vsrocq/archive/v2.3.3.tar.gz"
+    }
+  },
+  "2.3.4": {
+    "rocq-versions": {
+      "9.0.0": {},
+      "9.0.1": {},
+      "9.1.0": {}
+    },
+    "src": {
+      "hash": "sha256-v1hQjE8U1o2VYOlUjH0seIsNG+NrMNZ8ixt4bQNyGvI=",
+      "url": "https://github.com/rocq-prover/vsrocq/archive/v2.3.4.tar.gz"
+    }
+  }
+}
